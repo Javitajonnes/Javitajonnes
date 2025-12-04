@@ -19,7 +19,7 @@
 
 ## ⭐ Portafolio destacado
 
-### 🌐 :contentReference[oaicite:0]{index=0}/Blogfiction/Tazacarpeta
+### 🌐 Blogfiction/Tazacarpeta
 📌 *Web app gamificada para comunidades y tiendas del mundo de juegos de mesa y TCG.*  
 🧠 Objetivo: conectar usuarios y comercios con analítica de comportamiento.  
 🛠 Stack base: JavaScript, Python, MongoDB, cloud deploy.
