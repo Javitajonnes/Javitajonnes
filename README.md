@@ -55,15 +55,19 @@
 
 ## 🛠️ Stack que manejo
 
-### 👨‍💻 Lenguajes
+### 👨‍💻 Lenguajes & Skills principales
 ![JavaScript](https://img.shields.io/badge/JavaScript-F50773?style=for-the-badge&logo=javascript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-9207F5?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-1B07F5?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-F50773?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-1B07F5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9207F5?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-1B07F5?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗃️ Backend & DB
 ![NodeJS](https://img.shields.io/badge/NodeJS-9207F5?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-1B07F5?style=for-the-badge&logo=express&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-1B07F5?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-F50773?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F50773?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎮 Game Dev
