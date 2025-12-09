@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Javiera 👩‍💻  
+# 👋 ¡Hola! Soy Javiera   
 💼 **Desarrolladora Freelance | Web • Games 2D • Herramientas**  
-✨ *Convierto ideas en productos digitales simples, útiles y bien construidos.*
+ *Convierto ideas en productos digitales simples, útiles y bien construidos.*
 
 ---
 
@@ -13,7 +13,7 @@
 - Herramientas y scripts personalizados
 - Despliegue en cloud y mantenimiento
 
-🟢 **Disponibilidad actual:** Aceptando nuevos proyectos remotos o por entregables.
+🟢 **Disponibilidad actual:** Aceptando nuevos proyectos para remotos o por entregables.
 
 ---
 
@@ -102,8 +102,8 @@
 ## 📬 ¡Conectemos!
 
 <p>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-9207F5?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="TU_DISCORD"><img src="https://img.shields.io/badge/Discord-F50773?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:javipuga@gmail.com"><img src="https://img.shields.io/badge/Email-9207F5?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="javitajonnes"><img src="https://img.shields.io/badge/Discord-F50773?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1B07F5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="TU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-9207F5?style=for-the-badge"></a>
 </p>
