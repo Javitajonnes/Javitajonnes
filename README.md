@@ -47,8 +47,8 @@
 
 ---
 
-### 🛍 VitrinaDigitalFV2 (versión 2)
-📌 *Iteración optimizada de la vitrina digital con estructura más modular.*  
+### 🌐 Blogfiction/Home
+📌 *Landing page de empresa ludica con estructura más modular.*  
 🔧 Preparada para extenderse con componentes y futuras integraciones freelance.
 
 ---
